@@ -1,0 +1,97 @@
+.mb-2 {
+color: blue;
+}
+.dark-theme{
+background: black;
+}
+
+.img {
+padding: 15px;
+}
+
+
+}
+li {
+  list-style-type: none;
+ }
+ ul {
+  margin-left: 0;
+  padding-left: 0;
+  }
+.full-text-flex .clearfix{
+wight: 100%;
+}
+.full-text-flex span{
+display: block;
+padding: 2px;
+}
+.full-text-flex span.empty {
+    margin: 0 0 25px 0;
+}
+
+.pricing-header p-3 pb-md-4 mx-auto text-center {
+    background: black;
+    color: cyan;
+}
+
+* {
+    font-family: "Times New Roman", Times, serif;
+
+}
+#cun{
+    color: #ba9957;
+    font-size:24px;
+}
+#cyan{
+    color: #ba9957;
+    font-size: 54px;
+}
+#fuck{
+    padding-left: 65px;
+}
+h2{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 27px;
+}
+span{
+text-align: right;
+ font-size: 19px;
+ word-spacing: 5px;
+}
+p {
+    font-size: 19px;
+    margin: 0px 15px 0px 15px;
+    line-height: 1.5; /*межстрочный отступ */
+    min-width: 100px; /*минимальный размер текста */
+    text-align: left; /* выравнивание текста*/
+    text-indent: 18px; /* отступ абзаца */
+    word-spacing: 5px; /* интервал между словами*/
+h3{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 45px;
+}
+.container{
+background: cyan;
+}
+a{
+font-size: 16px;
+font-family: "Arial", serif;
+color: #189963;
+text-decoration: none;
+}
+.link-secondary text-decoration-none{
+font-size: 16px;
+font-family: "Arial", serif;
+color: #189963;
+text-decoration: none;
+}
+a:visited {
+  color: violet;
+}
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: darkblue;
+}
